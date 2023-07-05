@@ -1,3 +1,4 @@
 #!/bin/bash\ncd~
 #!/bin/bash\ncd~\n
 #!/bin/bash\ncd $HOME
+#!/bin/bash\ncd $HOME\n
